@@ -13,9 +13,3 @@
 - Run docker by command docker-compose up -d
 - Run app
 
-
-
-
-# proxy-band-test-task
-# proxy-band-test-task
-# proxy-band-test-task
